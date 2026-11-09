@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [Alice's Adventures in Wonderland](ebook/Alice's Adventures in Wonderland.pdf) – Lewis Carroll (2008) 
 2.  [Elements of Arithmetic](ebook/Elements of Arithmetic.pdf) – Augustus De Morgan (2022)
 3. [A General Introduction to Psychoanalysis](ebook/A General Introduction to Psychoanalysis.pdf) –  Sigmund Freud (2011)
-4. [Human Nature and Conduct: An introduction to Social Psychology](ebook/Human Nature and Conduct: An introduction to Social Psychology.pdf) – John Dewey (2012)
+4. [Human Nature and Conduct An Introduction to Social Psychology](ebook/Human Nature and Conduct An Introduction to Social Psychology.pdf) – John Dewey (2012)
 5. [On the Art of Writing](ebook/On the Art of Writing.pdf) – Arthur Quiller-Couch (2006)
 6. [Little Women](ebook/Little Women.pdf) – Louisa May Alcott (1996)
 7. [The Secret Garden](ebook/The Secret Garden.pdf) – Frances Hodgson Burnett (1994)
